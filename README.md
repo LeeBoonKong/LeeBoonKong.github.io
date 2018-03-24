@@ -6,3 +6,5 @@ TODO:
 - [ ] Learn HTML5
 - [ ] Make A Website  
 - [ ] Make it beautiful  
+- [ ] Learn JS  
+- [ ] Make API and web services
