@@ -1,12 +1,14 @@
 html{
-  margin-left: 2em;
-  margin-right: 2em;
+  margin-left: 12vw;
+  margin-right: 12vw;
   background: linear-gradient(#61d8fc,#88aaff);
 }
 
 nav{
   text-align: center;
   background: linear-gradient(#adadad,#c6c6c6);
+  margin-right: 0.8em;
+  margin-left: 0.8em;
 }
 
 button{
@@ -50,7 +52,7 @@ footer{
   text-align: left;
 }
 p{
-  font-size: 15px;
+  font-size: 17px;
   font-family: sans-serif;
   text-align: left;
   color: #C301B6;
