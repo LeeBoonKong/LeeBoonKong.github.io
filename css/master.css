@@ -1,12 +1,12 @@
 html{
   margin-left: 2em;
   margin-right: 2em;
-  background-color: #c1daff;
+  background: linear-gradient(#61d8fc,#88aaff);
 }
 
 nav{
   text-align: center;
-  background-color: #9f9ead;
+  background: linear-gradient(#adadad,#c6c6c6);
 }
 
 button{
