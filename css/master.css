@@ -25,6 +25,7 @@ button{
 
 button:hover{
   box-shadow: 0px 1px 4px #7492a1;
+  cursor: pointer;
 }
 
 nav > ul >li{
@@ -35,13 +36,14 @@ nav > ul >li{
   color: green;
 }
 
-h1{
+h1,h2,h3,h4,h5,h6{
   font-size: 30px;
-  font-family: monospace;
+  font-family: Georgia;
   text-align: center;
   color: #3617FE;
 }
 article > p{
+  font-size: 1.1em;
   margin-left: 1em;
   margin-right: 1em;
 }
@@ -58,11 +60,16 @@ p{
   color: #C301B6;
 }
 blockquote{
-  font-size: 20px;
+  font-size: 2em;
   font-family: cursive;
   text-align: center;
   color: #FE0101;
   background-color: #00b7ff;
+}
+
+#bloglist{
+  list-style: none;
+  font-size: 20px;
 }
 
 .boxed{
