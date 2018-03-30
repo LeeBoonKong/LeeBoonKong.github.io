@@ -69,7 +69,8 @@ blockquote{
 
 #bloglist{
   list-style: none;
-  font-size: 20px;
+  font-size: 2em;
+  text-align: center;
 }
 
 .boxed{
