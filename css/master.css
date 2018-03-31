@@ -1,26 +1,33 @@
 html{
   margin-left: 12vw;
   margin-right: 12vw;
-  background: linear-gradient(#61d8fc,#88aaff);
+  background: #80d6ff;
 }
 
 nav{
   text-align: center;
-  background: linear-gradient(#adadad,#c6c6c6);
+  background: #42a5f5;
   margin-right: 0.8em;
   margin-left: 0.8em;
 }
 
 button{
-  background-color: #969db0;
+  background-color: #0077c2;
   padding: .5em;
   border-radius: 1px;
   color: #fff;
-  font-family: 'Comic Sans MS';
+  font-family: 'Roboto';
   font-size: 20px;
   text-decoration: none;
   border: none;
   outline: none;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Roboto';
+  font-style: normal;
+  text-align: center;
+  color: #000000;
 }
 
 button:hover{
@@ -36,15 +43,10 @@ nav > ul >li{
   color: green;
 }
 
-h1,h2,h3,h4,h5,h6{
-  font-size: 30px;
-  font-family: Georgia;
-  text-align: center;
-  color: #3617FE;
-}
 article > p{
-  font-family: "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+  font-family: 'Roboto';
   font-size: 1.1em;
+  font-weight: 400;
   margin-left: 1em;
   margin-right: 1em;
   color: #000000;
