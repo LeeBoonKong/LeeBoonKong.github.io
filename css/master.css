@@ -1,6 +1,4 @@
 html{
-  margin-left: 12vw;
-  margin-right: 12vw;
   background: #80d6ff;
 }
 
@@ -47,15 +45,18 @@ article > p{
   font-family: 'Roboto';
   font-size: 1.1em;
   font-weight: 400;
-  margin-left: 1em;
-  margin-right: 1em;
+  padding-left: 12vw;
+  padding-right: 12vw;
   color: #000000;
   line-height: 1.65em;
 }
 
 footer{
-  margin-left: 1em;
-  margin-right: 1em;
+  background: #42a5f5;
+  margin-left: 0vw;
+  margin-right: 0vw;
+  padding-left: 12vw;
+  padding-right: 12vw;
   text-align: left;
 }
 p{
@@ -70,6 +71,8 @@ blockquote{
   font-size: 2em;
   font-family: cursive;
   text-align: center;
+  margin-left: 12vw;
+  margin-right: 12vw;
   color: #FE0101;
   background-color: #00b7ff;
 }
